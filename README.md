@@ -1,5 +1,5 @@
 # hello-world
 Primeiros passos
-<h1>Estamos iniciando agora<h1>
+<strong>Estamos iniciando agora<strong>
   <p> Como sabemos, nunca é tarde para começar!</p>
  
